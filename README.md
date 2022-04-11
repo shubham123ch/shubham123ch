@@ -50,9 +50,15 @@ Understanding requires constant and exponential learning .I really want to learn
 -  Data Science
 -  AI
 - 💞️ I’m looking to collaborate on ...
+ 
 -  Research in DS,AI.
+
+
 - 📫 How to reach me ...
+
+
 https://shubham123ch.github.io/shubham_chaturvedi./
+
 <!---
 shubham123ch/shubham123ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
