@@ -46,15 +46,17 @@ Understanding requires constant and exponential learning .I really want to learn
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   
 </div>
-- 🌱 I’m currently learning ...
+-- 🌱 I’m currently learning ...
+
 -  Data Science
 -  AI
-- 💞️ I’m looking to collaborate on ...
+
+-- 💞️ I’m looking to collaborate on ...
  
--  Research in DS,AI.
+- Research in DS,AI.
 
 
-- 📫 How to reach me ...
+-- 📫 How to reach me ...
 
 
 https://shubham123ch.github.io/shubham_chaturvedi./
